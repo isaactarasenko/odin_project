@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+    font-family: "Courier New";
+    text-align: center;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: 20px;
+    font-family: "Helvetica";
+    text-align: center;
+  }
+
+  ul {
+    text-align: center;
+    list-style: inside;
+  }
+
+.row{clear:both}
+
+.column{
+    width: 50%;
+    float: left;
+}
+

@@ -1,0 +1,1 @@
+In this repository, I aim to demonstrate my knowledge and abilities in building a basic recipe website, including images, lists, and links. I begin this project on the 6th of February and will eventually revisit it to style it up with CSS. 
